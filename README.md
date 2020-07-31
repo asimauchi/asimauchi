@@ -1,7 +1,5 @@
 ### Hi 👋  Hola 👋  Olá 👋
 
-<iframe src="https://giphy.com/embed/o37e1VlwzOvFS" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/o37e1VlwzOvFS">via GIPHY</a></p>
-
 📫 How to reach me: asimauchi@alum.mit.edu
 
 <!--
