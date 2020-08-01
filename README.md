@@ -1,4 +1,4 @@
-[![Human Evolution Gif](https://github.com/asimauchi/asimauchi/raw/master/human_evolution.gif)]
+![Human Evolution Gif](https://github.com/asimauchi/asimauchi/raw/master/human_evolution.gif)
 
 
 📫 How to reach me: asimauchi@alum.mit.edu
